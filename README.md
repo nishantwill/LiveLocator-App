@@ -1,4 +1,4 @@
-# chat_app
+# LiveLocator-App
 
 A new Flutter project.
 
